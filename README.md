@@ -1,0 +1,1 @@
+A simple task list in vanilla JavaScript
